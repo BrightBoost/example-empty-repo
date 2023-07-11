@@ -1,0 +1,9 @@
+# ignore file
+secrets.txt
+# ignore folder
+css
+# ignore all pdf files
+*.pdf
+
+anotherfile.txt
+blabla1.txt
