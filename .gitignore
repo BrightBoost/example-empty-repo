@@ -7,3 +7,9 @@ css
 
 anotherfile.txt
 blabla1.txt
+
+# ignore file that was already commited
+# git rm --cached name-file.extension
+
+# ignore file that was in staging area
+# git restore --staged name-file.extension
